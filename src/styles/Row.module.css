@@ -1,0 +1,15 @@
+.article{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: whitesmoke;
+    gap: 2px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+}
+
+.h5{
+    text-align: center;
+    
+}

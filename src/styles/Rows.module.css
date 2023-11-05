@@ -1,0 +1,32 @@
+.container {
+  justify-content: space-around;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 20px;
+  width: 75vw;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 26px 28px 15px -8px rgba(0, 0, 0, 0.15);
+}
+
+.button {
+  margin: auto;
+  margin-top: 20px;
+  display: block;
+  width: 15%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.textcenter{
+  text-align: center;
+}

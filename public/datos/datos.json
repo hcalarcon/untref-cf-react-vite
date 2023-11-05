@@ -1,0 +1,57 @@
+[
+    {
+        "categoria": "travesia",
+        "tipo": "Cabalgata de Montaña",
+        "factor": 1.02
+    },
+    {
+        "categoria": "travesia",
+        "tipo": "Buseo",
+        "factor": 1.05
+    },
+    {
+        "categoria": "travesia",
+        "tipo": "Kayac",
+        "factor": 1.03
+    },
+    {
+        "categoria": "travesia",
+        "tipo": "Ski/ Snow",
+        "factor": 1.19
+    },
+    {
+        "categoria": "travesia",
+        "tipo": "Senderismo",
+        "factor": 1.01
+    },
+    {
+        "categoria": "travesia",
+        "tipo": "Escalada",
+        "factor": 1.41
+    },
+    {
+        "categoria": "travesia",
+        "tipo": "Pesca",
+        "factor": 1.012
+    },
+    {
+        "categoria": "lugar",
+        "tipo": "San Martin de los Andes",
+        "factor": 1.13
+    },
+    {
+        "categoria": "lugar",
+        "tipo": "Villa la Angostura",
+        "factor": 1.04
+    },
+    {
+        "categoria": "lugar",
+        "tipo": "Villa Traful",
+        "factor": 1.29
+    },
+    {
+        "categoria": "lugar",
+        "tipo": "Villa Lago Lolog",
+        "factor": 1.00
+    }
+]

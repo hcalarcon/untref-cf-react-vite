@@ -1,0 +1,22 @@
+.titulo {
+  color: blue;
+  text-align: center;
+  align-self: center;
+  width: 100%;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav {
+  margin-top: 10px;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.span {
+  align-self: flex-end;
+  font-size: xx-large;
+  margin-right: 15px;
+}
